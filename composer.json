@@ -1,5 +1,5 @@
 {
-    "name": "rhumsaa/vnderror",
+    "name": "ericthelin/vnderror",
     "description": "application/vnd.error builder / formatter for PHP 5.3+",
     "type": "library",
     "keywords": ["error", "hypermedia", "xml", "json", "rest"],
